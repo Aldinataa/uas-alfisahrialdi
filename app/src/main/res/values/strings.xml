@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Hewanpedia</string>
+    // Layout
+    <string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="ayam">Ayam</string>
+    <string name="anjing_list_title">Daftar Ras Anjing</string>
+    <string name="ayam_list_title">Daftar Ras Ayam</string>
+    <string name="buaya">Buaya</string>
+    <string name="kucing">Kucing</string>
+    <string name="buaya_list_title">Daftar Ras Buaya</string>
+    <string name="kucing_list_title">Daftar Ras Kucing</string>
+
+    // Data Anjing
+    <string name="Pomeranian_nama">Pomeranian</string>
+    <string name="Pomeranian_asal">Afrika</string>
+    <string name="Poodle_nama">Poodle</string>
+    <string name="Poodle_asal">Eropa Timur </string>
+    <string name="Shih_tzu_nama">Shih tzu</string>
+    <string name="Shih_tzu_asal">Jepang</string>
+    <string name="Shih_tzu_deskripsi">Anjing shih tzu memiliki bulu halus yang bisah tumbuh panjang. Jadinya, Anda dapat mengikatnya seperti rambut anak perempuan. Karena bulunya yang cantik, anjing ini sering masuk ke kontes kecantikan anjing. Shih tzu juga termasuk anjing yang ramah dan mudah bergaul.</string>
+    <string name="Maltese_nama">Maltese</string>
+    <string name="Maltese_asal">Amerika</string>
+    <string name="Maltese_deskripsi">Anjing maltese memiliki bulu yang sangat halus dan mata bulat. Keuntungan dari memelihara anjing ini adalah bulunya tidak mudah rontok.</string>
+    <string name="Pekingese_nama">Pekingese</string>
+    <string name="Pekingese_asal">Eropa</string>
+    <string name="Pekingese_deskripsi">Meski terlihat kecil, siapa sangka ternyata jenis anjing satu ini berotot dan cukup berat. Bulunya yang lebat, membuat pekingese terlihat seperti awan yang berjalan.</string>
+    <string name="Beagle_nama">Beagle</string>
+    <string name="Beagle_asal">Meksiko</string>
+    <string name="Beagle_deskripsi">beagle merupakan anjing pelacak karena memiliki penciuman yang tajam dan badan yang berotot. Namun, karena ukurannya yang kecil, anjing ini akan terlihat sangat imut.  .</string>
+
+    // Data ayam
+    <string name="Ayam_Cochin_nama">Ayam Cochin</string>
+    <string name="Ayam_Cochin_asal">China</string>
+    <string name="Ayam_Cochin_deskripsi"> Ciri khas yang paling terlihat dari ayam cochin adalah banyaknya bulu yang ada di bagian kakinya. Ayam ini awalnya adalah ayam dari China, tapi orang-orang yang mengembangbiakkannya ada di seluruh dunia. Ayam ini bisa mencari makan sendiri dan tidak terlalu sulit untuk merawatnya.</string>
+    <string name="Ayam_Hutan_Kelabu_nama">Ayam Hutan Kelabu</string>
+    <string name="Ayam_Hutan_Kelabu_asal">Asia</string>
+    <string name="Ayam_Hutan_Kelabu_deskripsi">Ayam ini memiliki nama lain Gallus Sonneratii. Ayam hutan kelabu jantan pada umumnya memiliki panjang sekitar 80 cm. Ia memiliki bulu leher dan tengkuk yang berbintik hitam putih. Bagian kakinya memiliki warna antara kuning kemerahan yang terang. Beberapa jenis ayam hutan kelabu memiliki ekor berwarna hitam keunguan.</string>
+    <string name="Ayam_Kapas_nama">Ayam Kapas</string>
+    <string name="Ayam_Kapas_asal">Brazil</string>
+    <string name="Ayam_Kapas_deskripsi">Ayam kapas. Kalau sekilas dilihat, Anda tidak akan menyangka bahwa hewan ini adalah ayam. Bulunya yang seputih kapas membuat ia sekilas tampak seperti anjing pudel. Tidak diketahui dengan jelas darimana ayam ini berasal, tapi ia diperkirakan berasal dari cina. Ia memiliki jambul yang mengarah ke bagian belakang tubuh.</string>
+    <string name="Ayam_Orpington_nama">Ayam Orpington</string>
+    <string name="Ayam_Orpington_asal">Francis</string>
+    <string name="Ayam_Orpington_deskripsi">Ayam ini adalah hasil persilangan dari ayam plymouth rock dan minorca. Ayam ini memiliki ciri khas badannya yang bongsor dan kemampuannya untuk cepat menghasilkan telur. Ia juga memiliki bulu yang tampak sangat halus. Karena ayam ini adalah hasil persilangan yang berhasil, ayam orpington menjadi mudah berkembang biak.</string>
+    <string name="Ayam_Hutan_Merah_nama">Ayam Hutan Merah</string>
+    <string name="Ayam_Hutan_Merah_asal">Indonesia</string>
+    <string name="Ayam_Hutan_Merah_deskripsi">Ayam Hutan Merah juga termasuk dalam salah satu ayam asli dari hutan Indonesia. Bobotnya cukup ringan, ayam jantan biasanya hanya 700 gram, sedangkan ayam betina hanya 400 gram. Ayam ini sering dijadikan ayam peliharaan dirumah.</string>
+    <string name="Ayam_Cemani_nama">Ayam Cemani</string>
+    <string name="Ayam_Cemani_asal">Indonesia</string>
+    <string name="Ayam_Cemani_deskripsi">Ayam cemani merupakan salah satu ayam yang berasal dari Indonesia. Berbeda dengan jenis ayam lainnya, ayam cemani hanya memiliki warna hitam saja..</string>
+
+    // Data Buaya
+    <string name="Buaya_Orinoco_nama">Buaya Orinoco</string>
+    <string name="Buaya_Orinoco_asal">Amerika</string>
+    <string name="Buaya_Orinoco_deskripsi">Buaya Orinoco adalah spesies buaya besar dengan moncong yang relatif memanjang dan warna cokelat pucat dengan marking coklat tua yang tersebar. Mereka utamanya tinggal di Cekungan Orinoco. Meski memiliki moncong yang agak sempit, mereka memangsa beragam vertebrata, termasuk mamalia besar. Buaya Orinoco adalah spesies yang terancam punah.</string>
+    <string name="Buaya_Air_Tawar_nama">Buaya Air Tawar</string>
+    <string name="Buaya_Air_Tawar_asal">Australia</string>
+    <string name="Buaya_Air_Tawar_deskripsi">Buaya air tawar adalah spesies kecil dengan moncong yang sempit dan memanjang. Mereka memiliki warna coklat muda dengan pita lebih gelap di badan dan ekor. Buaya ini hidup di sungai dengan jarak yang cukup jauh dari laut untuk menghindari konfrontasi dengan buaya muara. Mereka sebagian besar makan ikan dan vertebrata kecil lainnya.</string>
+    <string name="Buaya_Filipina_nama">Buaya Filipina</string>
+    <string name="Buaya_Filipina_asal">Filipina</string>
+    <string name="Buaya_Filipina_deskripsi">Buaya Filipina adalah spesies yang relatif kecil dengan moncong yang agak lebar. Mereka memiliki kulit punggung yang berat dan warna coklat keemasan yang menjadi gelap saat dewasa. Buaya ini lebih menyukai habitat air tawar dan memakan berbagai vertebrata kecil hingga sedang. Selain berstatus Terancam Punah, Buaya Filipina juga merupakan spesies buaya yang paling terancam.</string>
+    <string name="Buaya_Morelet_nama">Buaya Morelet</string>
+    <string name="Buaya_Morelet_asal">Meksiko</string>
+    <string name="Buaya_Morelet_deskripsi">Dikenal juga sebagai buaya Meksiko, reptil satu ini berukuran kecil hingga sedang dengan moncong yang agak lebar. Mereka memiliki warna coklat keabu-abuan gelap dan ditemukan di sebagian besar berbagai habitat air tawar. Mereka makan mamalia, burung, dan reptil. Buaya Meksiko terdaftar sebagai Berisiko Rendah.</string>
+    <string name="Buaya_Nill_nama">Buaya Nill</string>
+    <string name="Buaya_Nill_asal">Afrika</string>
+    <string name="Buaya_Nill_deskripsi">Buaya Nil adalah spesies besar dan agresif dengan moncong besar, terutama pada hewan yang lebih tua. Mereka memiliki warna perunggu gelap dan semakin gelap saat dewasa. Mereka hidup di berbagai habitat air tawar, tetapi juga bisa ditemukan di air payau. Buaya Nil adalah predator puncak yang mampu memangsa beragam vertebrata Afrika, termasuk ungulat (hewan berukuku) dan predator berukuran besar lainnya. Spesies ini terdaftar sebagai Berisiko Rendah.</string>
+    <string name="Buaya_Irian_nama">Buaya Irian</string>
+    <string name="Buaya_Irian_asal">Indonesia</string>
+
+    // Data kucing
+    <string name="Kucing_Persia_nama">Kucing Persia</string>
+    <string name="Kucing_Persia_asal">Iran</string>
+    <string name="Kucing_Persia_deskripsi">Kucing Persia adalah salah satu kucing rumahan paling populer di banyak negara di seluruh dunia. Mereka berasal dari Persia (Iran saat ini). Catatan pertama mengenai eksistensi kucing Persia berasal dari abad ke-17.</string>
+    <string name="Kucing_British_Shorthair_nama">Kucing British Shorthair</string>
+    <string name="Kucing_British_Shorthair_asal">Benua Amerika</string>
+    <string name="Kucing_British_Shorthair_deskripsi">British Shorthair atau juga dikenal sebagai British Blue adalah salah satu kucing peliharaan yang paling lucu dan populer. Dengan tubuh chunky yang khas, bentuk wajah yang luas, dan mantel bulu yang lebat, British Shorthair juga menjadi inspirasi Cheshire Cat yang terkenal dari film Alice in Wonderland.</string>
+    <string name="Maine_Coon_nama">Kucing Maine Coon</string>
+    <string name="Maine_Coon_asal">Amerika</string>
+    <string name="Maine_Coon_deskripsi">Kucing raksasa ini adalah satwa asli Negara Bagian Maine, Amerika Serikat, dan merupakan salah satu ras alami tertua di Amerika Utara. Maine Coon sangat ramah dan bersahabat terlepas dari penampilan mereka yang gahar; karena itulah mereka dijuluki sebagai “raksasa yang lembut.”</string>
+    <string name="Kucing_Siam_nama">Kucing Siam</string>
+    <string name="Kucing_Siam_asal">China</string>
+    <string name="Kucing_Siam_deskripsi">Kucing ini sangat toleran, tenang, dan ramah. Mereka sangat memuja pemiliknya. Tidak mengherankan, penampilan khas mereka telah mengilhami penciptaan beberapa ras kucing baru, salah satunya adalah Ocicat.</string>
+    <string name="Kucing_Bengal_nama">Kucing Bengal</string>
+    <string name="Kucing_Bengal_asal">Australia</string>
+    <string name="Kucing_Bengal_deskripsi">Kucing cantik ini suka memanjat dan melompat, mereka sangat aktif dan menyenangkan. Kucing Bengal membutuhkan interaksi sosial dengan pemilik mereka sesering mungkin dan mereka jarang merontokkan bulu.</string>
+    <string name="Kucing_Manx_nama">Kucing Manx</string>
+    <string name="Kucing_Manx_asal">Asia Tenggara</string>
+    <string name="Kucing_Manx_deskripsi">Kucing Manx adalah hewan asli dari Isle of Man dan terkenal karena gen tak berekor mereka. Beberapa kucing Manx sama sekali tidak memiliki ekor, sedangkan yang lain dapat memiliki setengah panjang ekor kucing standar. Manx telah diakui oleh banyak registry kucing sejak akhir abad ke-19.</string>
+    <string name="go_back">Kembali</string>
+    <string name="anjing">Anjing</string>
+    <string name="Pomeranian_deskripsi">Anjing satu ini sangat imut bukan? Tubuhnya yang mungil dan bulunya yang lebat seperti pom-pom, membuatnya menjadi hewan peliharaan favorit banyak orang. Sekilas, Pomeranian terlihat seperti boneka sehingga tak jarang para pemiliknya mendandani anjing lucu satu ini dengan memakaikan baju Anjing ini dikenal manja dan setia. Bahkan, saat Anda hanya ke toilet sebentar, dia bisa saja menunggu Anda di depan pintu. Lucu, bukan?</string>
+    <string name="Poodle_deskripsi">Anjing poodle memiliki ciri khas, yaitu bulunya yang mengikal. Jika bulunya tumbuh lebat, maka ia pun akan terlihat elegan dan sangat lucu. Selain itu, poodle juga dikenal sebagai anjing yang cerdas. Jadi, sangat mudah bagi untuk melatihnya.</string>
+    <string name="Buaya_Irian_deskripsi">Buaya Irian adalah spesies buaya kecil dengan warna abu-abu-coklat dan marking coklat sampai hitam di ekor. Buaya muda memiliki moncong berbentuk V yang lebih sempit dan menjadi lebih lebar saat dewasa. Mereka lebih menyukai habitat air tawar, meskipun juga toleran terhadap air asin, demi menghindari persaingan dan pemangsaan oleh buaya muara. Spesies ini memakan vertebrata kecil hingga menengah.</string>
+</resources>
