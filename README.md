@@ -1,5 +1,3 @@
 # uas-alfisahrialdi
-https://user-images.githubusercontent.com/92877139/149679636-e4010d20-bdb9-479b-81bd-d07242131b80.mp4
-
-
-https://user-images.githubusercontent.com/92877139/149679641-9e7f6e1f-3b04-4c43-bf1b-b30d7c4039bb.mp4
+![bahasa china](https://user-images.githubusercontent.com/92877139/149707920-a6e99e10-ce34-4e16-9ea5-4dd1fb29e19a.gif)
+![bahasa indonesia](https://user-images.githubusercontent.com/92877139/149707931-ffcf50f8-c966-4a28-ad1a-a1aff8b485de.gif)
